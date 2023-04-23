@@ -1,1 +1,1 @@
-# Healthcare-Capstone-project
+### to build a predictive model that can accurately predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. The dataset used in this project is originally from NIDDK, and the ultimate goal is to create knowledge about and treatments for the most chronic, costly, and consequential diseases.
